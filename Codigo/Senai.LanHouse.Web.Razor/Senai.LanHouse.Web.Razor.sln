@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.LanHouse.Web.Razor", "Senai.LanHouse.Web.Razor\Senai.LanHouse.Web.Razor.csproj", "{33B12411-234B-4F32-892C-8B8069199B89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B12411-234B-4F32-892C-8B8069199B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B12411-234B-4F32-892C-8B8069199B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B12411-234B-4F32-892C-8B8069199B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B12411-234B-4F32-892C-8B8069199B89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABB2B274-01DE-40F5-AC8F-6B2644156D67}
+	EndGlobalSection
+EndGlobal
